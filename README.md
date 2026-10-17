@@ -18,4 +18,4 @@ programming fundamentals
 building practical applications
 
 -Author
-MorabaSec| SOC Analyst
+MorabaSec | SOC Analyst
