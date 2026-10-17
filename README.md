@@ -10,7 +10,7 @@ shopping cart management
 Total price calculation
 
 -Technologies
-python
+Python
 
 -What i learned 
 problem solving and logical thinking
