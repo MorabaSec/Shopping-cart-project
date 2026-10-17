@@ -1,2 +1,21 @@
 # Shopping-cart-project
-A shopping cart application demonstrating product selection, cart management, and shopping functionality 
+
+-About this project 
+this project demonstrates a shopping cart application that allows users to select
+products and manage their shopping experience
+
+-Features
+product selection 
+shopping cart management
+Total price calculation
+
+-Technologies
+python
+
+-What i learned 
+problem solving and logical thinking
+programming fundamentals
+building practical applications
+
+-Author
+MorabaSec| SOC Analyst
